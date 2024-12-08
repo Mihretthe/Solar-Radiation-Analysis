@@ -7,8 +7,6 @@ The Solar Radiation Analysis project is designed to analyze and visualize solar 
 ## Structure
 - `app/`: Contains the Streamlit web application.
 - `notebooks/`: Includes Jupyter notebooks for in-depth data analysis.
-- `scripts/`: Helper functions for data processing.
-- `tests/`: Unit tests to ensure code reliability.
 
 ## Features
 - Streamlit Dashboard for interactive EDA.
