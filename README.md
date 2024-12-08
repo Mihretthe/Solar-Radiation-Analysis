@@ -16,7 +16,7 @@ The Solar Radiation Analysis project is designed to analyze and visualize solar 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Solar-Radiation-Analysis.git
+   git clone https://github.com/Mihretthe/Solar-Radiation-Analysis.git
    ```
 2. Navigate to the project directory
    ```bash
